@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=toCheckValue\ array
+comment2.target=boolean\ inArray(int,\ java.util.ArrayList)
+comment3.params=z\ playerCount
+comment3.target=int\ getMax(java.util.ArrayList,\ int)
+numComments=4
